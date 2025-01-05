@@ -19,5 +19,8 @@ This PowerShell script configures the "Interactive logon: Message title for user
    .\ConfigureLogonPolicy.ps1
 
 git add .
+
 git commit -m "https://github.com/dylanleonard-1/dylanleonard-1/blob/main/ConfigureLogonPolicy.ps1"
+
 git push origin main
+
